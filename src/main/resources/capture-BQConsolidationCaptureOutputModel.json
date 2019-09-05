@@ -1,0 +1,13 @@
+{
+  "consolidationCaptureActionTaskRecord" : {},
+  "consolidationCaptureActionTaskReference" : "CCATR712870",
+  "consolidationInstanceRecord" : {
+    "regulatoryReportTypeContentRequirements" : "regulatoryReportTypeContentRequirements",
+    "sourceTransactionRecords" : "sourceTransactionRecords",
+    "sourceCustomerReference" : "721550",
+    "sourceBusinessUnitEmployeeReference" : "704487",
+    "sourceProductServiceReference" : "777064"
+  },
+  "consolidationCaptureRecordReference" : "CCRR704941",
+  "captureResponseRecord" : {}
+}

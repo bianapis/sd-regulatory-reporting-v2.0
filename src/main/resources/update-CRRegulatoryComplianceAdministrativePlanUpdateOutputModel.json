@@ -1,0 +1,12 @@
+{
+  "regulatoryComplianceAdministrativePlanInstanceRecord" : {
+    "regulatoryReportingSchedule" : {
+      "regulatoryReportType" : "regulatoryReportType",
+      "regulationReference" : "752796"
+    },
+    "regulatoryAuthorityReference" : "748636"
+  },
+  "regulatoryComplianceAdministrativePlanUpdateActionTaskReference" : "RCAPUATR774698",
+  "regulatoryComplianceAdministrativePlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

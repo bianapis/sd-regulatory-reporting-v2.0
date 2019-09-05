@@ -1,0 +1,12 @@
+{
+  "enquiriesInitiateActionReference" : "EIAR756938",
+  "enquiriesInstanceReference" : "EIR763447",
+  "enquiriesInitiateActionRecord" : {},
+  "enquiriesInstanceRecord" : {
+    "regulatoryEnquiryResult" : "regulatoryEnquiryResult",
+    "regulatoryEnquiryDocumentReference" : "758182",
+    "regulatoryEnquiryWorkProducts" : "regulatoryEnquiryWorkProducts",
+    "enquiryTransactionRecords" : "enquiryTransactionRecords"
+  },
+  "enquiriesInstanceStatus" : "enquiriesInstanceStatus"
+}

@@ -1,0 +1,40 @@
+{
+  "authoringInstanceReport" : {
+    "authoringInstanceReport" : {},
+    "authoringInstanceReportRecord" : {},
+    "authoringInstanceReportParameters" : "authoringInstanceReportParameters",
+    "authoringInstanceReportType" : "authoringInstanceReportType"
+  },
+  "consolidationInstanceRecord" : {
+    "regulatoryReportTypeContentRequirements" : "regulatoryReportTypeContentRequirements",
+    "sourceTransactionRecords" : "sourceTransactionRecords",
+    "sourceCustomerReference" : "740362",
+    "sourceBusinessUnitEmployeeReference" : "778547",
+    "sourceProductServiceReference" : "716973"
+  },
+  "regulatoryComplianceAdministrativePlanInstanceRecord" : {
+    "regulatoryReportingSchedule" : {
+      "regulatoryReportType" : "regulatoryReportType",
+      "regulationReference" : "766962"
+    },
+    "regulatoryAuthorityReference" : "763763"
+  },
+  "authoringRetrieveActionTaskRecord" : {},
+  "authoringInstanceRecord" : {
+    "reportingBusinessUnitReference" : "718789",
+    "reportingPeriod" : "reportingPeriod",
+    "regulatoryReport" : {},
+    "regulatoryReportDocumentReference" : "761211",
+    "reportingBusinessLegalEntityReference" : "771048",
+    "regulatoryReportReference" : "700953",
+    "regulatoryReportTypeComplianceReportingRequirements" : "regulatoryReportTypeComplianceReportingRequirements"
+  },
+  "authoringRetrieveActionResponse" : "authoringRetrieveActionResponse",
+  "authoringRetrieveActionTaskReference" : "ARATR735979",
+  "authoringInstanceAnalysis" : {
+    "authoringInstanceAnalysisParameters" : "authoringInstanceAnalysisParameters",
+    "authoringInstanceAnalysisRecord" : {},
+    "authoringInstanceAnalysisReport" : {},
+    "authoringInstanceAnalysisReportType" : "authoringInstanceAnalysisReportType"
+  }
+}

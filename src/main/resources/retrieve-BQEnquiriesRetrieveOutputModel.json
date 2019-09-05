@@ -1,0 +1,30 @@
+{
+  "enquiriesRetrieveActionResponse" : "enquiriesRetrieveActionResponse",
+  "regulatoryComplianceAdministrativePlanInstanceRecord" : {
+    "regulatoryAuthorityReference" : "777404"
+  },
+  "enquiriesRetrieveActionTaskReference" : "ERATR739277",
+  "enquiriesInstanceRecord" : {
+    "regulatoryEnquiryResult" : "regulatoryEnquiryResult",
+    "regulatoryEnquiryDocumentReference" : "750290",
+    "enquiryBusinessUnitReference" : "756491",
+    "regulatoryEnquiry" : "regulatoryEnquiry",
+    "regulatoryEnquiryWorkProducts" : "regulatoryEnquiryWorkProducts",
+    "enquiryCustomerReference" : "762623",
+    "enquiryProductServiceReference" : "753099",
+    "enquiryTransactionRecords" : "enquiryTransactionRecords"
+  },
+  "enquiriesRetrieveActionTaskRecord" : {},
+  "enquiriesInstanceAnalysis" : {
+    "enquiriesInstanceAnalysisReport" : {},
+    "enquiriesInstanceAnalysisRecord" : {},
+    "enquiriesInstanceAnalysisReportType" : "enquiriesInstanceAnalysisReportType",
+    "enquiriesInstanceAnalysisParameters" : "enquiriesInstanceAnalysisParameters"
+  },
+  "enquiriesInstanceReport" : {
+    "enquiriesInstanceReportParameters" : "enquiriesInstanceReportParameters",
+    "enquiriesInstanceReportRecord" : {},
+    "enquiriesInstanceReportType" : "enquiriesInstanceReportType",
+    "enquiriesInstanceReport" : {}
+  }
+}

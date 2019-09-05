@@ -1,0 +1,31 @@
+{
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationInstanceRecord" : {
+    "regulatoryReportTypeContentRequirements" : "regulatoryReportTypeContentRequirements",
+    "sourceTransactionRecords" : "sourceTransactionRecords",
+    "sourceCustomerReference" : "720881",
+    "sourceBusinessUnitEmployeeReference" : "778289",
+    "sourceProductServiceReference" : "788409"
+  },
+  "consolidationRetrieveActionTaskRecord" : {},
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "regulatoryComplianceAdministrativePlanInstanceRecord" : {
+    "regulatoryReportingSchedule" : {
+      "regulatoryReportType" : "regulatoryReportType",
+      "regulationReference" : "718682"
+    },
+    "regulatoryAuthorityReference" : "712408"
+  },
+  "consolidationRetrieveActionTaskReference" : "CRATR759649"
+}
